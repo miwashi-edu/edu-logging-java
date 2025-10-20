@@ -1,5 +1,13 @@
 # edu-logging-java
 
+[Spring Boot Logging](https://docs.spring.io/spring-boot/reference/features/logging.html)
+[OpenSearch-ELK alternative](https://opensearch.org)
+[Logit-ELK host](https://logit.io/pricing/logs/)
+[Logback](https://github.com/qos-ch/logback)
+[Logack Tutorial Baeldung](https://www.baeldung.com/logback)
+[ELK Tutorial](https://www.elastic.co/blog/getting-started-with-the-elastic-stack-and-docker-compose?utm_source=chatgpt.com)
+
+
 # Spring Boot Logging & ELK – 1 Week Intern Training Plan
 
 ## w1-d1 — Logging basics (Java → SLF4J → Logback)
